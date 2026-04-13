@@ -1,2 +1,17 @@
-# Career-Guide-
-Career Guide is a simple website built using HTML, CSS, and Python that helps students find suitable career paths based on their skills and interests.
+# Career Guide Project
+This is a simple Career Guidance websitethat helps students explore suitable career options based on their interests and skills.
+
+# Features 
+Simple and user-Friendly interface
+Helps students find career options
+Easy navigation
+Beginner-Friendly design
+
+# Technologies Used 
+HTML
+CSS
+PYTHON
+
+# Purpose
+The main aim of this project is to help students get basic career guidance and understand different career paths in an easy way.
+
